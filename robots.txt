@@ -7,6 +7,13 @@ Disallow: /documentation/
 Disallow: /downloads/
 Disallow: /images/
 Disallow: /files/
+Disallow: /includes
+Disallow: /layouts
 Disallow: /logs/
 Disallow: /tempdownloads/
-Disallow: /update/
+Disallow: /page
+Disallow: /queries
+Disallow: /search
+Disallow: /shopping
+Disallow: /updates/
+Disallow: /users
