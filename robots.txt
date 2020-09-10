@@ -1,4 +1,7 @@
 User-agent: *
+Disallow: /access
+Disallow: /admin
+Disallow: /core
 Disallow: /database/
 Disallow: /documentation/
 Disallow: /downloads/
